@@ -1,0 +1,49 @@
+<article class="col-12 text-center">
+				<h2 class="subtitulo"><span>¿Cuál es el impacto de la moda rápida?</span></h2>
+				<p class="titulo">Esta es la triste realidad</p>
+				<p>El impacto ambiental es quizás la mayor consecuencia del fast fashion, el modelo de producción se fundamenta en la cantidad; para cumplir con sus objetivos se emplean materiales e insumos que pueden resultar altamente tóxicos. Estos terminan en los ríos y demás ecosistemas naturales, afectando la vida en todas sus formas. Además el  mal uso de  recursos como el agua es de cifras exorbitantes, únicamente  para cumplir con los requerimientos absurdos de la industria del fast fashion. </p>
+        <br>
+			</article>
+
+			<div class="col-12">
+				<div class="row justify-content-center">
+					<article class="col-6 col-lg-3 py-1">
+						<figure class="producto">
+							<img src="https://conexionambiental.pe/wp-content/uploads/2020/12/image-1.png" class="img-fluid" alt="">
+							<figcaption class="overlay">
+								<p class="overlay-texto">Descripción pequeña</p>
+							</figcaption>
+						</figure>
+					</article>
+
+					<article class="col-6 col-lg-3 py-1">
+						<figure class="producto">
+							<img src="https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/styles/bi_570/public/media/image/2021/11/fast-fashion-atacama-desert-2527027.jpg?itok=swkvPupQ" class="img-fluid" alt="">
+							<figcaption class="overlay">
+								<p class="overlay-texto">Descripción pequeña</p>
+							</figcaption>
+						</figure>
+					</article>
+
+					<article class="col-6 col-lg-3 py-1">
+						<figure class="producto">
+							<img src="https://cloudfront-us-east-1.images.arcpublishing.com/semana/VKWLZDNNLZEVJLCCEKDWUJ7QMQ.jpg" class="img-fluid" alt="">
+							<figcaption class="overlay">
+								<p class="overlay-texto">Descripción pequeña</p>
+							</figcaption>
+						</figure>
+					</article>
+
+					<article class="col-6 col-lg-3 py-1">
+						<figure class="producto">
+							<img src="https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/styles/bi_570/public/media/image/2021/11/fast-fashion-atacama-desert-2527027.jpg?itok=swkvPupQ" class="img-fluid" alt="">
+							<figcaption class="overlay">
+								<p class="overlay-texto">Descripción pequeña</p>
+							</figcaption>
+						</figure>
+					</article>
+         
+         <a href="https://www.semana.com/agenda/articulo/fast-fashion-y-violencia-de-genero-una-relacion-estrecha/72348/" class="enlace">Informate: Mira la magnitud de esto</a>     
+          
+				</div>
+			</div>
